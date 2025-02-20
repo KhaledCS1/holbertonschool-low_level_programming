@@ -8,12 +8,12 @@ void print_alphabet_x10(void)
 char ch;
 int i;
 
-for (i = 0; i < 10; i++)  // Loop to repeat printing 10 times
+for (i = 0; i < 10; i++)  /* Loop to repeat printing 10 times */
 {
-for (ch = 'a'; ch <= 'z'; ch++)  // Loop to print lowercase alphabet
+for (ch = 'a'; ch <= 'z'; ch++)  /* Print lowercase alphabet */
 {
 _putchar(ch);
 }
-_putchar('\n');  // Print newline after each alphabet sequence
+_putchar('\n');  /* Print newline after each alphabet sequence */
 }
 }
