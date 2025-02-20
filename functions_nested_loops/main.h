@@ -1,7 +1,8 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-void print_alphabet(void);  // التصريح عن الدالة
-int _putchar(char c);  // التصريح عن _putchar (إذا كنت تستخدمه)
+void print_alphabet(void); /* Function prototype */
+
+int _putchar(char c);
 
 #endif /* MAIN_H */
