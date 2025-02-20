@@ -13,17 +13,19 @@ for (j = 0; j <= 9; j++)  /* Loop for columns */
 {
 prod = i * j;  /* Calculate product */
 
-if (j == 0)
-_putchar('0' + prod);  /* Print first number without space */
+if (j == 0)  /* Print first number in the row */
+_putchar('0' + prod);  
 else
 {
 _putchar(',');  /* Print separator */
 _putchar(' ');
 
-if (prod < 10)  /* If single digit, add an extra space */
+if (prod < 10)  /* If product is single digit, add extra space */
 _putchar(' ');
 
-_putchar('0' + (prod / 10));  /* Print tens (if any) */
+if (prod >= 10)  /* Print tens only if product is >= 10 */
+_putchar('0' + (prod / 10));
+
 _putchar('0' + (prod % 10));  /* Print ones */
 }
 }
