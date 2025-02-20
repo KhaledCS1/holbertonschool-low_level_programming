@@ -14,7 +14,7 @@ for (j = 0; j <= 9; j++)  /* Loop for columns */
 prod = i * j;  /* Calculate product */
 
 if (j == 0)  /* Print first number in the row */
-_putchar('0' + prod);  
+_putchar('0' + prod);
 else
 {
 _putchar(',');  /* Print separator */
