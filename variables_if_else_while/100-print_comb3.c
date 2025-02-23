@@ -1,6 +1,6 @@
 /*
- * File: 100-print_comb3.c
- * Auth: KhaledCS1
+ * Task: 100-print_comb3.c
+ * Eng: KhaledCS1
  */
 
 #include <stdio.h>
