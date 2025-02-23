@@ -1,6 +1,6 @@
 /*
- * File: 5-print_numbers.c
- * Auth: KhaledCS1
+ * Task: 5-print_numbers.c
+ * Eng: KhaledCS1
  */
 
 #include <stdio.h>
