@@ -1,6 +1,6 @@
 /*
- * File: 1-last_digit.c
- * Auth: KhaledCS1
+ * Task: 1-last_digit.c
+ * Eng: KhaledCS1
  */
 
 #include <stdlib.h>
