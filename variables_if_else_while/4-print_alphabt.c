@@ -1,6 +1,6 @@
 /*
- * File: 4-print_alphabt.c
- * Auth: KhaledCS1
+ * Task: 4-print_alphabt.c
+ * Eng: KhaledCS1
  */
 
 #include <stdio.h>
