@@ -1,6 +1,6 @@
 /*
- * File: 9-print_comb.c
- * Auth: KhaledCS1
+ * Task: 9-print_comb.c
+ * Eng: KhaledCS1
  */
 
 #include <stdio.h>
