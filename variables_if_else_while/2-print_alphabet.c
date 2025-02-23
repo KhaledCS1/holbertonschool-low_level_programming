@@ -1,6 +1,6 @@
 /*
- * File: 2-print_alphabet.c
- * Auth: KhaledCS1
+ * Task: 2-print_alphabet.c
+ * Eng: KhaledCS1
  */
 
 #include <stdio.h>
