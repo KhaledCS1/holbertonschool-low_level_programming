@@ -1,6 +1,6 @@
 /*
- * File: 102-print_comb5.c
- * Auth: KhaledCS1
+ * Task: 102-print_comb5.c
+ * Eng: KhaledCS1
  */
 
 #include <stdio.h>
