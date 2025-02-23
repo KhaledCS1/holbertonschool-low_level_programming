@@ -1,6 +1,6 @@
 /*
- * File: 101-print_comb4.c
- * Auth: KhaledCS1
+ * Task: 101-print_comb4.c
+ * Eng: KhaledCS1
  */
 
 #include <stdio.h>
