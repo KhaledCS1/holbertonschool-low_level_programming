@@ -1,6 +1,6 @@
 /*
- * File: 7-print_tebahpla.c
- * Auth: KhaledCS1
+ * Task: 7-print_tebahpla.c
+ * Eng: KhaledCS1
  */
 
 #include <stdio.h>
