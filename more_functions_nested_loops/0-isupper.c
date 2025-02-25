@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 *_file : 0-isupper.c
+*@c: The character to check
 */
 
 int _isupper(int c)
