@@ -36,11 +36,16 @@ void simple_print_buffer(char *buffer, unsigned int size)
  */
 int main(void)
 {
-    char buffer[98] = {0x00};
+    char buffer[98] = "Talk is cheap. Show me the code.";
 
+    printf("Before memset:\n");
     simple_print_buffer(buffer, 98);
-    _memset(buffer, 0x01, 95);
-    printf("-------------------------------------------------\n");
+
+    _memset(buffer, 0x20, 16);
+
+    printf("After memset:\n");
     simple_print_buffer(buffer, 98);
+
     return (0);
 }
+
